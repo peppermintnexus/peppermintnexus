@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding and web design
 - 🌱 I’m currently learning python, java, javascript, CSS, and MySQL
 - 💞️ I aspire to be a UI/UX Designer
-- 📫 You can reach me via email bosleyed20@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
